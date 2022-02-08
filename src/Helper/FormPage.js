@@ -7,7 +7,7 @@ const FormPage = ({form, input}) => {
 
   const textChange = (e) => {
     setNewInput({...newInput, [e.target.name.toLowerCase()]: e.target.value})
-    console.log(newInput)
+
   }
 
   return (
