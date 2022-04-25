@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "front": "How do you pass data 'down' to a React child component?",
+      "front": "How do you pass data 'down'kjhkjhjkhkhkj",
       "back": "As properties or props",
       "deckId": 1
     },
@@ -48,7 +48,7 @@
       "id": 7
     },
     {
-      "front": "Front side of card",
+      "front": "fixed\n",
       "back": "Back side of cardsdafsafafs",
       "deckId": 1,
       "id": 8
@@ -70,6 +70,12 @@
       "back": "Back side of card",
       "deckId": 3,
       "id": 11
+    },
+    {
+      "front": "Front side of card",
+      "back": "Back side of cardkjhkjhjk",
+      "deckId": 1,
+      "id": 12
     }
   ]
 }

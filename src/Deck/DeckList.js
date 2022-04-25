@@ -15,7 +15,8 @@ const DeckList = () => {
 
 return (
   <>
-  {decks.map((deck, index) => <Deck deck={deck} key={index} adjustDecks={[decks, setDecks]}/>)}
+  {decks.map((deck, index) => 
+  <Deck deck={deck} key={index} adjustDecks={[decks, setDecks]}/>)}
   </>
 )
 }
