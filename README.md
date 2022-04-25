@@ -1,6 +1,6 @@
 # Flashcards App (Thinkful)
 
-An app for creating, viewing and updating flashcards, which utilizes the local API to perform CRUD requests in order to alter data on the server.I was responsible for the full frontend portion of this project
+An app for creating, viewing and updating flashcards, which utilizes the local API to perform CRUD requests in order to alter data on the server.
 
 ## Usage
 
